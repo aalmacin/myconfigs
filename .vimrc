@@ -8,5 +8,4 @@ set norestorescreen
 
 autocmd BufWritePre * :%s/\s\+$//e
 
-map <S-n> :NERDTree .<CR>
-map <C-S-n> :NERDTreeClose<CR>
+map <S-n> :NERDTreeToggle .<CR>
