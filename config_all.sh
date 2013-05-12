@@ -1,3 +1,4 @@
+mkdir -p ~/.vim
 cp -i .vimrc ~
 git config --global core.excludesfile ~/.gitignore
 git config --global user.name "Aldrin Jerome Almacin"
@@ -9,4 +10,4 @@ cp -i .gitignore ~
 cp -i nerdtree.zip ~/.vim/nerdtree.zip
 cd ~/.vim/
 unzip ~/.vim/nerdtree.zip
-cd -
+cd ~
