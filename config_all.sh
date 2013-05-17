@@ -11,3 +11,4 @@ cp -i nerdtree.zip ~/.vim/nerdtree.zip
 cd ~/.vim/
 unzip ~/.vim/nerdtree.zip
 cd ~
+ls -la

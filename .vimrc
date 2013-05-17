@@ -1,5 +1,6 @@
 set tabstop=2
 syntax on
+set ruler
 set autoindent
 set expandtab
 set nu
